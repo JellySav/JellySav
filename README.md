@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yael but you can call me Eavny</h1>
 <h3 align="center">I am a computer science student passionate about frontend and interested in data analysis.</h3>
 
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jellysav" alt="jellysav" /></a> </p>
 
 - 🌱 I’m currently learning **from courses, tools such as java, vue, nodejs, and I am also interested in data visualization through d3js.**
@@ -19,7 +20,7 @@
 <p align="left">
 <a href="https://codepen.io/Jelly-the-scripter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="eavngjelly" height="30" width="40" /></a>
 <a href="https://dev.to/jellysav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jellysav" height="30" width="40" /></a>
-<a href="https://kaggle.com/jelly_avs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jelly_avs" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/jellyavs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jelly_avs" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/eavngelly" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="eavngelly" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/eavngjelly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="eavngjelly" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/eavngjelly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="eavngjelly" height="30" width="40" /></a>
