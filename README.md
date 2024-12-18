@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jellysav" alt="jellysav" /></a> </p>
 
-- 🌱 I’m currently learning **from courses, tools such as python, java, vue, nodejs, and I am also interested in data visualization through d3js.**
+- 🌱 I’m currently learning **from courses, tools such as Python, Java, vue, nodejs, SQL, Panda and I am also interested in data visualization through d3js.**
 
 - 👨‍💻 All of my projects are available at [SliceofLife/projects](SliceofLife/projects)
 
