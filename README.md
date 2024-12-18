@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [SliceofLife/projects](SliceofLife/projects)
 
-- 📝 I regularly write articles on [EavnyShotaro/articles](EavnyShotaro/articles)
+- 📝 I regularly write articles on [EavnyJelly/articles](EavnyJelly/articles)
 
 - 💬 Ask me about **whatever, I want to learn and talk about what I've learned (mainly frontEnd).**
 
