@@ -111,6 +111,3 @@
   <img src="https://img.shields.io/badge/Readthedocs-%23000000.svg?style=for-the-badge&logo=readthedocs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bookstack-%230288D1.svg?style=for-the-badge&logo=bookstack&logoColor=white"/>
 </span>
-
-![snake gif](https://github.com/JellySav/JellySav/blob/output/github-contribution-grid-snake.svg)
-
