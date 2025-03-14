@@ -5,7 +5,6 @@
 ### 💻 &nbsp;About Me
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 
-
 🎓 &nbsp;I'm currently studying Computer Science at the University Pontificie Catolica of Valparaiso.\
 👨‍💻 &nbsp;All of my projects are available at [SliceofLife/projects](SliceofLife/projects)\
 ✍️ &nbsp;I regularly write articles on [EavnyJelly/articles](EavnyJelly/articles)\
@@ -13,6 +12,7 @@
 ✉️ &nbsp;How to reach me [SliceofLife/contactMe](SliceofLife/contactMe)\
 📄 &nbsp;Know about my experiences [SliceofLife/cv](SliceofLife/cv) for more details about me.\
 🌱 &nbsp;I’m currently learning from courses, tools such as Python, Java, vue, nodejs, SQL, Panda and I am also interested in data visualization through d3js and on the creation of virtual machines.
+
 
 <span>
   <img src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A"/>
@@ -44,7 +44,7 @@
   
 </p>
 
-### &nbsp;🌱 What is about
+### &nbsp;🌱 What I can do
 <h4 align="left">🛠 Languages</h4>
 <span>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
