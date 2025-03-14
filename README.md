@@ -12,7 +12,7 @@
 💬 &nbsp;Feel free to reach out to me for some interesting discussion.\
 ✉️ &nbsp;How to reach me [SliceofLife/contactMe](SliceofLife/contactMe)\
 📄 &nbsp;Know about my experiences [SliceofLife/cv](SliceofLife/cv) for more details about me.\
-🌱 &nbsp;I’m currently learning from courses, tools such as Python, Java, vue, nodejs, SQL, Panda and I am also interested in data visualization through d3js.
+🌱 &nbsp;I’m currently learning from courses, tools such as Python, Java, vue, nodejs, SQL, Panda and I am also interested in data visualization through d3js and on the creation of virtual machines.
 
 <span>
   <img src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A"/>
