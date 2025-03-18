@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yael but you can call me Eavny</h1>
 <h3 align="center">Computer Science Student</h3>
 
-
 ### 💻 &nbsp;About Me
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
-
 
 🎓 &nbsp;I'm currently studying Computer Science at the University Pontificie Catolica of Valparaiso.\
 👨‍💻 &nbsp;All of my projects are available at [SliceofLife/projects](SliceofLife/projects)\
@@ -43,6 +41,7 @@
 <a href="https://www.leetcode.com/eavngjelly"
   
 </p>
+
 
 ### &nbsp;🌱 What I can do
 <h4 align="left">🛠 Languages</h4>
