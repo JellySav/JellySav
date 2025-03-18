@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Yael but you can call me Eavny</h1>
 <h3 align="center">Computer Science Student</h3>
 
+
 ### 💻 &nbsp;About Me
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
+
 
 🎓 &nbsp;I'm currently studying Computer Science at the University Pontificie Catolica of Valparaiso.\
 👨‍💻 &nbsp;All of my projects are available at [SliceofLife/projects](SliceofLife/projects)\
@@ -11,8 +13,6 @@
 ✉️ &nbsp;How to reach me [SliceofLife/contactMe](SliceofLife/contactMe)\
 📄 &nbsp;Know about my experiences [SliceofLife/cv](SliceofLife/cv) for more details about me.\
 🌱 &nbsp;I’m currently learning from courses, tools such as Python, Java, vue, nodejs, SQL, Panda and I am also interested in data visualization through d3js and on the creation of virtual machines.
-
-
 
 <span>
   <img src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A"/>
