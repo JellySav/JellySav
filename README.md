@@ -31,7 +31,6 @@
   <img src="https://img.shields.io/badge/XDA--Developers-%23AC6E2F.svg?style=for-the-badge&logo=XDA-Developers&logoColor=white"/>
 </span>
 
-
 <p align="left">
 <a href="https://codepen.io/Jelly-the-scripter" 
 <a href="https://dev.to/jellysav" 
@@ -41,8 +40,6 @@
 <a href="https://www.leetcode.com/eavngjelly"
   
 </p>
-
-
 
 
 ### &nbsp;🌱 What I can do
@@ -57,12 +54,14 @@
   <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/>
 </span>
 
+
 <h4 align="left">💾 Databases</h4>
 <span>
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </span>
+
 
 <h4 align="left">💻 IDEs/Editors</h4>
 <span>
@@ -73,6 +72,7 @@
   <img src="https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white"/>
 </span>
 
+
 <h4 align="left">🎨 Design</h4>
 <span>
   <img src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white"/>
@@ -82,12 +82,14 @@
   <img src="https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white"/>
 </span>
 
+
 <h4 align="left">🤖 Artificial Intelligence and Bots</h4>
 <span>
   <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white"/>
   <img src="https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white"/>
 </span>
+
 
 <h4 align="left">📝 Blog</h4>
 <span>
