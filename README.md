@@ -60,7 +60,7 @@ Estudiante de **Ingeniería Civil Informática** con un fuerte interés en el de
 
 ### 📊 Estadísticas de GitHub
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=EavnyJelly&show_icons=true&theme=radical" alt="Yael's GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=JellySav&show_icons=true&theme=radical" alt="JellySav's GitHub stats" />
 </p>
 
 ---
